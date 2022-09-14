@@ -10,8 +10,6 @@ Q-Less is a recreation of the tabletop dice game [Q-Less](https://q-lessgame.com
 <img src="https://drive.google.com/uc?export=view&id=1Af2bkCDQJ7vXnP9JwJNIqsIuPhaqAINx"  width="550" height="538">
 
 ---
-## Development and Contributions
-The basic gameplay is fully functional, but Q-Less is currently in development to implement numerous expanded features! Please see the Issues tab for current issues and reach out if you're interested in contributing. Thanks!
 
 ### Stack:
 Q-Less was written in Node, Express, and React, using a MongoDB database
@@ -31,6 +29,8 @@ npm start
 ```
 This application is run locally on `https://127.0.0.1:3000/` by default.
 
+## Development and Contributions
+The basic gameplay is fully functional, but Q-Less is currently in development to implement numerous expanded features! Please see the Issues tab for current issues and reach out if you're interested in contributing. Thanks!
 
 ## Contributing Authors
 
